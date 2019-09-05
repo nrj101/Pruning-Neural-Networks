@@ -15,3 +15,5 @@ The process of pruning goes from analyzing how many connections/units are redund
 2. The input samples are stored as columns in batch matrices where No. of Columns = No. of Samples, No. of Rows = No. of features
 
 3. The model is implemented as a function rather than as a 'class'.
+
+4. Dataset : Classical MNIST dataset
